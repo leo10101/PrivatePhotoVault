@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PrivatePhotoVault</string>
+    <string name="enter_password_to_login">Enter password to login</string>
+    <string name="login">Login</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="please_enter_again">Please enter again</string>
+    <string name="create_password">Create password</string>
+    <string name="add_new_album_here">Add new album here</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_album">New Album</string>
+    <string name="create">Create</string>
+    <string name="requirements">Requirements</string>
+
+    <string name="password">  Password</string>
+    <string name="verify_password">  Verify Password</string>
+    <string name="album_name">%4Album Name</string>
+
+</resources>
